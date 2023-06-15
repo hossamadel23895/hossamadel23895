@@ -1,10 +1,3 @@
-
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Hossam Adel</h1>
-<h3 align="center"></h3>
-
-
-
-
 Ambitious **web developer** from Egypt with a strong sense of dedication, motivation, and responsibility. Seeking a challenging opportunity alongside an expert team of developers where my skills would be utilized and further
 enhanced.
 
