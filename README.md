@@ -12,7 +12,7 @@ enhanced.
 
 
 <br /> 
-[![Developer Image](https://github.com/hossamadel23895/hossamadel23895/blob/main/Developer.png)](#)
+<img src="https://github.com/hossamadel23895/hossamadel23895/blob/main/Developer.png" align="right" width="60%" />
 
 <br />
 
