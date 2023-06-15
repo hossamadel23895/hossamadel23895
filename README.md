@@ -13,7 +13,8 @@ enhanced.
 
 <br /> 
 
-<img src="https://github.com/hossamadel23895/hossamadel23895/blob/main/Developer.png" align="right" width="60%"/>
+<img src="![image](https://github.com/hossamadel23895/hossamadel23895/assets/95858256/af5b2c76-d013-429a-bf78-d3060e0ce306)
+" align="right" width="60%"/>
 <br />
 
 
