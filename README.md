@@ -12,7 +12,7 @@ enhanced.
 
 
 <br /> 
-<img src="https://github.com/hossamadel23895/hossamadel23895/blob/main/Developer.png" align="right" width="60%" />
+<div style="float: right; width: 60%; height: 100vh; background-image: url('https://github.com/hossamadel23895/hossamadel23895/blob/main/Developer.png'); background-size: cover;"></div>
 
 <br />
 
