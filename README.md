@@ -17,10 +17,10 @@ enhanced.
 
 <br>
 <h2>more about me</h2>
-<a href="https://www.linkedin.com/in/hossamadel23895/">
+<a href="https://www.linkedin.com/in/hossamadel23895/" target="_blank" rel="noopener">
   <img align="left" alt="Hossam's LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 
-<a href="https://drive.google.com/file/d/11FgDOU02U7QxCg3cK7U2FoN1ZhGfNOQv/view?usp=sharing">
+<a href="https://drive.google.com/file/d/11FgDOU02U7QxCg3cK7U2FoN1ZhGfNOQv/view?usp=sharing" target="_blank" rel="noopener">
   <img align="left" alt="Hossam's LinkedIN" width="30px" src="https://github.com/hossamadel23895/hossamadel23895/blob/main/CV_icon.png" />
 
 
